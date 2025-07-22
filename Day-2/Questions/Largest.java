@@ -18,6 +18,7 @@ public class Largest {
           maxNumberIs=c;
       }
       System.out.println("MaxNumber is:" +maxNumberIs);
+      input.close();
      }
      
 }
