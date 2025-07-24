@@ -38,7 +38,6 @@ public class Loops {
          do{
              System.out.println("hello world");
          }while ( n !=1);
-
-
+ input.close();
     }
 }
