@@ -1,6 +1,6 @@
 package Question;
-
 import java.util.Arrays;
+
 
 public class ReversArray {
  public static void main(String[] args) {
