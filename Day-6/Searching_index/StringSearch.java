@@ -1,3 +1,4 @@
+package Searching_index;
 public class StringSearch {
     public static void main(String[] args) {
         String name="Ujjwal";
