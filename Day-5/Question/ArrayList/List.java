@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-
+// this is sort
 public class List {
   public static void main(String[] args) {
     // array this is use the take  hug number of the array.
