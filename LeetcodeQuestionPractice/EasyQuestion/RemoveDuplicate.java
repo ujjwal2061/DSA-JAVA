@@ -17,12 +17,17 @@ System.out.println(k);
 }
  static  int removeduplicate(int[] arr){
     int i=0;
+    // set the initalk value i=0;
     for(int j=1; j<arr.length; j++){
+        // loop through the index index[1];
         if(arr[i]!=arr[j]){
-            i++;
-         arr[i]=arr[j];
+            // check if the index arr[i] is not equal to index of arr[j]
+            arr[i]=arr[j]; // if not then set the value arr[i] to arr[j] 
+            // yo van ko arr[j] ko value k xa current time to value lai arr[i] ma set gara  ho
+            i++; // then increase the i++ once arr[i] not equal to arr[j]
         }
     }
+    // last index of the array
     return i+1;
  } 
 
