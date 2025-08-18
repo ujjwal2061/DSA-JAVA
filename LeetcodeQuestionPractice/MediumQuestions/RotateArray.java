@@ -1,4 +1,4 @@
-package LeetcodeQuestionPractice;
+package LeetcodeQuestionPractice.MediumQuestions;
 
 
 import java.util.Arrays;
@@ -18,13 +18,19 @@ public class RotateArray {
     
      int [] arr = {1,2,3,4,5,6,7};
      int n=arr.length;
-
      int k=3;
-     int [] res=kelemtrotate(arr, k ,n);
-    System.out.println("K elemmt rotate "+Arrays.toString(res));
+    //  int [] res=kelemtrotate(arr, k ,n);
+    // System.out.println("K elemmt rotate "+Arrays.toString(res));
+    resver(arr, 0,n-k-1);
+    resver(arr, n-k, n-1);
+   System.out.println( Arrays.toString(resver(arr, 0,n-1)));
+
     }
     // this for the k elemt of the array 
     // -> with tc 
+    // for k-n  yo array ma k-n yo use gara na vaki xa ni 
+    // 
+
     static int [] kelemtrotate(int [] arr,int k ,int n){
         k=k%n;
         int [] temp=new int[k]; 
@@ -43,4 +49,15 @@ public class RotateArray {
         }
         return arr;
     }
+    // this  optimial solulation
+static int [] resver(int[] arr ,int s,int e){
+    while (s<=e) {
+        int temp=arr[s];
+        arr[s]=arr[e];
+        arr[e]=temp;
+        s++;
+        e--;
+    }
+    return arr;
+}
 }

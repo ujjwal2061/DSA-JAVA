@@ -1,5 +1,5 @@
-package LeetcodeQuestionPractice;
-
+package LeetcodeQuestionPractice.RandomQuestion;
+ // need to revist looked ok 
 public class InfiniteArray {
     public static void main(String[] args) {
         int[] arr ={35,7,9,8,10,100,130,140,160,170};

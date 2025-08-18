@@ -1,4 +1,4 @@
-package LeetcodeQuestionPractice;
+package LeetcodeQuestionPractice.EasyQuestion;
 
 public class PresnetArray {
     public static void main(String[] args) {

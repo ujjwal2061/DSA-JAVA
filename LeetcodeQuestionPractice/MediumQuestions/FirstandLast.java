@@ -1,4 +1,4 @@
-package LeetcodeQuestionPractice;
+package LeetcodeQuestionPractice.MediumQuestions;
 
 import java.util.Arrays;
 

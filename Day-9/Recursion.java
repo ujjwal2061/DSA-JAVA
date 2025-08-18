@@ -48,6 +48,7 @@ static  void printnumber4(int n){
      System.out.println(n);
      printnumbe5(5);
 }
+// body change there becuse the this function did not call another function 
 static  void printnumbe5(int n){
      System.out.println(n);
 }

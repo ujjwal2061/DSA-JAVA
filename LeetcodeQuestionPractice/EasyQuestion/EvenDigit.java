@@ -1,4 +1,4 @@
-package LeetcodeQuestionPractice;
+package LeetcodeQuestionPractice.EasyQuestion;
 
 class EvenDigit {
      // Eeven Digit number 

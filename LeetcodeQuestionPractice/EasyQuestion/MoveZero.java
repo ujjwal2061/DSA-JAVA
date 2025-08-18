@@ -1,4 +1,4 @@
-package LeetcodeQuestionPractice;
+package LeetcodeQuestionPractice.EasyQuestion;
 import java.util.ArrayList;
 import java.util.Arrays;
 

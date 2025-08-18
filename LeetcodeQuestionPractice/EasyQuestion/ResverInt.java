@@ -1,4 +1,4 @@
-package LeetcodeQuestionPractice;
+package LeetcodeQuestionPractice.EasyQuestion;
 
 public class ResverInt {
     public static void main(String[] args) {

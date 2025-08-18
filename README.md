@@ -38,6 +38,24 @@ Inspired by **Kunal Kushwaha's DSA series**, this is where I:
 4. **Reflect** – Summarize learnings in notes
 
 ---
+## File Structure
+```
+├── Assigment/ # Assignments
+├── Day-1/ # Day 1 practice
+├── Day-2/ # Day 2 practice
+├── Day-3/ # Day 3 practice
+├── Day-4/ # Day 4 practice
+├── Day-5/ # Day 5 practice
+├── Day-6/ # Day 6 practice
+├── Day-7/ # Day 7 practice
+├── Day-8/ # Day 8 practice
+├── Day-9/ # Day 9 practice
+└── LeetcodeQuestionPractice
+    ├── EasyQuestions
+    └── MediumQuestions
+    ├── HardQuestions
+
+```
 
 ## 💡 Inspiration
 

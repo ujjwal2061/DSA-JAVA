@@ -1,4 +1,4 @@
-package LeetcodeQuestionPractice;
+package LeetcodeQuestionPractice.EasyQuestion;
  // Question -77
 public class Smallestletter {
     public static void main(String[] args) {
