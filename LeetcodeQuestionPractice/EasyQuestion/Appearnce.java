@@ -1,4 +1,4 @@
-package LeetcodeQuestionPractice.RandomQuestion;
+package LeetcodeQuestionPractice.EasyQuestion;
 
 public class Appearnce {
     public static void main(String[] args) {
