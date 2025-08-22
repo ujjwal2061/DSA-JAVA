@@ -50,8 +50,9 @@ Inspired by **Kunal Kushwaha's DSA series**, this is where I:
 ├── Day-7/ # Day 7 practice
 ├── Day-8/ # Day 8 practice
 ├── Day-9/ # Day 9 practice
-├── Day-10/ # Day 9 practice
-├── Day-11/ # Day 9 practice 
+├── Day-10/ # Day 10 practice
+├── Day-11/ # Day 11 practice 
+├── Day-12/ # Day 12 practice 
 └── LeetcodeQuestionPractice
     ├── EasyQuestions
     └── MediumQuestions
