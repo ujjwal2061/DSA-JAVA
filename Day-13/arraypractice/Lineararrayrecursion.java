@@ -31,7 +31,7 @@ public class Lineararrayrecursion {
     }
  }
     public static void main(String[] args) {
-     int[] arr={1,5,6,7,88,88 ,5};
+     int[] arr={1,5,6,7,88,5};
      int target=88;
      System.out.println(findelemtwithrecursion(arr, target, 0));
      System.out.println(finIndex(arr, target, 0));
